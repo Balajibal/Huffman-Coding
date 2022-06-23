@@ -83,5 +83,5 @@ for (char, frequency) in freq:
 
 
 
-## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Result
+## Result
 Thus the huffman coding was implemented to compress the data using python programming.
